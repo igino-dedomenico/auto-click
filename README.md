@@ -29,12 +29,15 @@ Replace `<idle_time_seconds>` with the desired idle time in seconds before a key
 ## Contributing
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-[<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=V6YPKSDBHRYWS)
-
-
 ## License
 This script is licensed under the MIT License. See the LICENSE file for more details.
 
+## Support Me
 
+If you find my work helpful and want to support me, you can buy me a coffee! Click the button below to make a donation via PayPal.
+
+[<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif">](https://www.paypal.com/donate/?hosted_button_id=V6YPKSDBHRYWS)
+
+Every donation is greatly appreciated and helps me to keep developing this project!
 
 
