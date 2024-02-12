@@ -14,7 +14,7 @@ This Python script is designed to prevent your computer from going into standby 
 ## Usage
 1. Clone or download this repository to your local machine.
 2. Open a terminal or command prompt and navigate to the directory where the script is located.
-3. Run the script using the following command: python prevent_standby.py <idle_time_seconds>
+3. Run the script using the following command: python auto-clicker.py <idle_time_seconds>
 
 Replace `<idle_time_seconds>` with the desired idle time in seconds before a key press is simulated. For example, to prevent standby for 5 minutes (300 seconds), you would run:
 
