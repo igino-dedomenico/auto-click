@@ -30,7 +30,8 @@ Replace `<idle_time_seconds>` with the desired idle time in seconds before a key
 If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This script is licensed under the MIT License. See the LICENSE file for more details.
+This script is licensed under the MIT License. See the LICENSE file for more details [License](./LICENSE)
+
 
 ## Security
 [Security Policy](./SECURITY.md)
